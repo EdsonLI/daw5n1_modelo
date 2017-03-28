@@ -10,5 +10,5 @@ package br.edu.ifsul.modelo;
  * @author Edson
  */
 public class Teste {
-    
+    int num;
 }
